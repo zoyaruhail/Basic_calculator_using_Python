@@ -1,18 +1,23 @@
 # Basic_calculator_using_Python
 It is Python based Basic Calculator which uses topics like loops, exceptional handling and mathematical operations to calculate the result.
 
-##Overview
+#Overview
 
 This is a simple command-line calculator that allows users to perform basic mathematical operations:
 
 Addition
+
 Subtraction
+
 Multiplication
+
 Division
+
 Exit
+
 The program runs in a continuous loop, allowing users to perform multiple calculations until they choose to exit.
 
-##How the Calculator Works
+#How the Calculator Works
 
 User Menu
 
@@ -34,17 +39,27 @@ The program continues until the user selects Exit (5).
 Exit Condition
 
 If the user selects option 5, the program thanks them and terminates.
-Features
+
+#Features
+
 ✅ Supports Addition, Subtraction, Multiplication, and Division
+
 ✅ Allows continuous calculations without restarting
+
 ✅ Prevents division by zero
+
 ✅ Handles invalid inputs gracefully
+
 ✅ User-friendly interface
 
-##How to Run the Calculator
+#How to Run the Calculator
 
 Ensure Python is installed on your system.
+
 Copy and paste the code into a new Python file (e.g., calculator.py).
+
 Open a terminal or command prompt and run:
+
 python basic_calculator.py
-ollow the on-screen instructions to perform calculations.
+
+follow the on-screen instructions to perform calculations.
